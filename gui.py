@@ -56,6 +56,7 @@ from widgets.theme_manager import ThemeManager
 from widgets.network_map import NetworkMapWidget
 from widgets.proxy_dialog import ProxySettingsDialog
 from widgets.module_watcher import ModuleWatcher   # ← TAMBAHKAN INI
+from widgets.module_tab import ModuleTab
 # Import dari folder core/
 from core.capture import UniversalCapture
 from core.module_runner import ModuleRunner
